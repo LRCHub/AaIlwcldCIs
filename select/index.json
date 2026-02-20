@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "base_track": "居酒屋",
+  "base_track": "居酒屋（feat. 徳利）",
   "base_artist": "SKRYU",
-  "createdAt": "2026-02-14T13:41:10.765684Z",
+  "createdAt": "2026-02-20T10:22:32.045089Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "居酒屋",
-      "artist": "Fuyumi Sakamoto",
-      "has_synced": false,
-      "path": "select/01_居酒屋_Fuyumi_Sakamoto.txt"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "居酒屋「花いちもんめ」",
-      "artist": "石川さゆり",
-      "has_synced": false,
-      "path": "select/02_居酒屋「花いちもんめ」_石川さゆり.txt"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
